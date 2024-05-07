@@ -29,11 +29,8 @@
   <p align="center">
      Curtain Avenue : real client project for curtain stores.
     <br />
-    <a href="https://github.com/OracleYT/mark-3-demo"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://youtu.be/zjhYZU-olpo">View Demo Video</a>
-    ·
+    <br />    ·
      <!--
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
