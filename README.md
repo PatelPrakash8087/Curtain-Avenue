@@ -45,14 +45,30 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Mark-3 Screen Shot][product-screenshot]](https://flutter.dev/)
-
-
-
-
-
-
-[![Mark-3 Screen Shot 2][product-screenshot-2]](https://youtu.be/zjhYZU-olpo)
+<a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assest/home.jpg" alt="Logo" width="200" height="400">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assest/home2.jpg" alt="Logo" width="200" height="400">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assest/createCurtain.jpg" alt="Logo" width="200" height="400">
+  </a>
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assest/allOrder.jpg" alt="Logo" width="200" height="400">
+  </a>
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assest/editDetails.jpg" alt="Logo" width="200" height="400">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assest/pdf.jpg" alt="Logo" width="200" height="400">
+  </a> 
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assest/note.jpg" alt="Logo" width="200" height="400">
+  </a>
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="assest/user&role.jpg" alt="Logo" width="200" height="400">
+  </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,8 +76,9 @@
 
 ### Built With
 
-* [![Unity][unity.js]][Next-url]
-* [![C][C.js]][Vue-url]
+[![flutter][flutter.js]][Next-url]<br>
+[![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFCA28)](Next-url)<br>
+[![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=0175C2)](Next-url)
 <!--
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
@@ -191,6 +208,7 @@ Project Demo Link: [Video Demo](https://youtube.com/playlist?list=PLpSi8Gwi0z9ny
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/ss1.png
 [product-screenshot-2]: images/ss2.png
+[flutter.js]: https://img.shields.io/badge/flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB
 [unity.js]: https://img.shields.io/badge/unity%203D-000000?style=for-the-badge&logo=unity&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
