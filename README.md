@@ -20,7 +20,7 @@
 <div align="center">
 
   <a href="https://github.com/OraclYT/mark-3-demo">
-    <img src="assest/appLogo.png" alt="Logo" width="100" height="100">
+    <img src="assest/appLogo.png" alt="Logo" width="200" height="100">
   </a> 
 
 
