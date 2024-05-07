@@ -45,7 +45,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Mark-3 Screen Shot][product-screenshot]](https://youtu.be/zjhYZU-olpo)
+[![Mark-3 Screen Shot][product-screenshot]](https://flutter.dev/)
 
 
 
