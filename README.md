@@ -147,26 +147,6 @@ The application utilizes Firebase as its backend, providing a seamless integrati
 - `Problem-Solving Enhancement`: Through overcoming obstacles and challenges within the application, users can enhance their problem-solving skills, fostering resilience and creativity in tackling diverse coding scenarios.
 
 
-_For more examples, please refer to the [Github](https://github.com/OracleYT/))
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- ROADMAP 
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
--->
-
-<!-- Target audience -->
 ## Target Audience
 
 Curtain Avenue is crafted for individuals interested in exploring coding concepts within a captivating virtual environment. This Flutter application with a Firebase backend is ideal for beginners in coding, offering an engaging platform to learn and practice programming skills.
@@ -182,9 +162,8 @@ By combining the allure of a virtual city exploration with coding challenges, Cu
 <!-- CONTACT -->
 ## Contact
 
-Bhargav Singh Barad - [@linkedin](https://www.linkedin.com/in/bhargav-singh-barad/) - bhargavsinghbarad007@gmail.com
+Prakash Patel - [@linkedin](https://www.linkedin.com/in/prakash-patell/) - patelprakash8087@gmail.com
 
-Project Demo Link: [Video Demo](https://youtube.com/playlist?list=PLpSi8Gwi0z9nyUyJVV74FNBRccZhwmUbg)
 
 ### !NO SOURCE CODE(CAN BE USED BY OTHERS IF DECLARED)
 
