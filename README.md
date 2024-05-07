@@ -78,26 +78,25 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-MARK-3 is an educational Unity 3D game designed to introduce students to the world of coding through a space-themed interactive experience. In this game, students will embark on an intergalactic journey as they become space pilots, navigating their spacecraft through challenging cosmic terrains to reach their destination.
+Curtain Avenue is an innovative Flutter-based mobile application designed to introduce users to the world of coding through a unique interactive experience. In this application, users will embark on a journey as they navigate through a virtual city, controlling the movement of a character through a series of challenges.
 
-The core concept of the game revolves around using block-based programming to plan the route for the spaceship. Instead of traditional lines of code, the students will use a drag-and-drop system that employs visual blocks of statements, making coding concepts more accessible and engaging for beginners.
+The core concept of Curtain Avenue revolves around using a block-based programming system to plan the character's route. Instead of traditional lines of code, users will use a drag-and-drop system that employs visual blocks of statements, making coding concepts more accessible and engaging for beginners.
+
+The application utilizes Firebase as its backend, providing a seamless integration of data storage and real-time updates. This allows for a robust and scalable infrastructure to support the game's features and user interactions.
 
 ### Features
 
-1. `Intuitive User Interface`: The game will offer a user-friendly interface with a <b>toolbox</b> of programming blocks that students can use to create a series of actions for the space ship.
+1. `Create Order`: User can add their details like name , number and Etc. and get types to select Curtains.
 
-2. `Cosmic Adventures`: Students will explore a <b>visually stunning</b> and diverse interstellar environment, featuring planets, asteroids, nebulae, and other celestial objects, each presenting unique challenges for route planning.
+2. `Users & Roles`: In this feature Admin can add their membes and define theirs roles with members details.
 
-3. `Block-Based Route Planning`: By <b>dragging</b> and connecting coding blocks, students will define the ship's route, including movement, rotations, and interactions with the environment.
+3. `Notes`: This feature for daily work details and only admin can delete that or in 24hr it is auto delete. 
 
-4. `Progressive Difficulty`: The game will offer a gradual learning curve, introducing new coding concepts and challenges as players advance through the <b>levels</b>.
+4. `Profile`: The profile Section hold that members details and their bank details also with logout feature.
+ 
+5. `All Order`: This is main feature of our app in this feature Admin can seen their all client details client work & we also have an call feature and Edit feature for edit clients Curtains Details 
+   we can also get client project detail in PDF form and we can download and share it in app
 
-5. `Real-Time Feedback`: Students will receive <b>instant feedback</b> on their code blocks, allowing them to debug and optimize their routes for efficiency and accuracy.
-
-6. `Creative Freedom`: The game will <b>encourage creativity</b>, allowing students to experiment with different coding approaches and refine their problem-solving skills.
-
-7. `Gamified Learning`: Students will earn rewards as they complete levels, providing a sense of accomplishment and <b>motivation</b> to continue learning.
-   
 <!--
 ### Installation
 
@@ -120,15 +119,15 @@ The core concept of the game revolves around using block-based programming to pl
 
 ## Educational Benefit
 
-- `Introduction to Coding Concepts`: Students will learn fundamental coding concepts such as conditionals, and functions through the <b>visual representation</b> of code blocks.
+- `Introduction to Coding Concepts`: Curtain Avenue introduces users to fundamental coding concepts like conditionals and functions through a visual representation of code blocks, aiding in a hands-on learning experience.
   
-- `Logical Thinking`: The game will challenge students to think <b>logically</b> and plan strategically to reach the destination efficiently.
+- `Enhanced Logical Thinking`: Users are challenged to think logically and strategically within the virtual city environment, fostering critical thinking skills and efficient problem-solving approaches.
   
-- `Debugging Skills`: Debugging capabilities will help students <b>identify and fix errors</b>, reinforcing the importance of precise coding.
+- `Debugging Skills Development`: The application equips users with the ability to identify and rectify errors, emphasizing the importance of precise coding and enhancing their debugging capabilities.
   
-- `Computational Thinking`: Students will <b>develop computational thinking</b> skills as they break down complex tasks into smaller, manageable steps.
+- `Fostering Computational Thinking`: Curtain Avenue encourages the development of computational thinking skills by guiding users to break down complex tasks into manageable steps, promoting structured problem-solving approaches.
   
-- `Problem-Solving Skills`: By overcoming various obstacles in space, students will enhance their <b>problem-solving</b> abilities.
+- `Problem-Solving Enhancement`: Through overcoming obstacles and challenges within the application, users can enhance their problem-solving skills, fostering resilience and creativity in tackling diverse coding scenarios.
 
 
 _For more examples, please refer to the [Github](https://github.com/OracleYT/))
@@ -153,9 +152,11 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 <!-- Target audience -->
 ## Target Audience
 
-The game is designed for middle and high school students who are new to coding or have minimal programming experience. It can also serve as an excellent supplementary tool for coding and computer science classes.
+Curtain Avenue is crafted for individuals interested in exploring coding concepts within a captivating virtual environment. This Flutter application with a Firebase backend is ideal for beginners in coding, offering an engaging platform to learn and practice programming skills.
 
-Overall, Cosmic Route Planner aims to ignite students' passion for coding and space exploration while providing a solid foundation in block-based programming, making the concept of coding clear and accessible to all aspiring space adventurers!
+The application targets users who are eager to delve into the world of coding, making it suitable for students, hobbyists, and anyone looking to enhance their coding proficiency. Curtain Avenue serves as a valuable resource for those seeking to grasp block-based programming principles in a visually stimulating and interactive manner.
+
+By combining the allure of a virtual city exploration with coding challenges, Curtain Avenue aims to inspire a love for coding and technology, fostering a solid understanding of programming fundamentals while catering to the aspirations of budding developers and tech enthusiasts alike.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
